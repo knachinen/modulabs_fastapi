@@ -1,0 +1,1 @@
+{"polls": [{"id": 1, "title": "1st", "options": ["yes", "no"]}], "votes": [{"poll_id": 1, "option": "yes"}, {"poll_id": 1, "option": "yes"}, {"poll_id": 1, "option": "yes"}]}
